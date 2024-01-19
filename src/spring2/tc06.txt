@@ -1,0 +1,2 @@
+James has done tc06
+James has added tc to the smoke suite
